@@ -1,0 +1,4 @@
+SimpleITK
+Tensorboard
+Scipy
+
